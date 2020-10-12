@@ -1,6 +1,6 @@
 ## Ayrton Mugnaini
 
-Hi! I'm Ayrton, a senior graphic designer working at [@Deloitte](https://github.com/Deloitte) Brazil and currently studying full stack web development.
+Hi! I'm Ayrton, a senior graphic designer working at [Deloitte](https://www2.deloitte.com/br/pt.html) Brazil and currently studying full stack web development at [Let's Code](https://letscode.com.br/).
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ayrton%20Mugnaini-959da5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayrtonmugnaini/)](https://www.linkedin.com/in/ayrtonmugnaini/)
 [![Gmail Badge](https://img.shields.io/badge/-ayrton.mugnaini@gmail.com-959da5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayrton.mugnaini@gmail.com)](mailto:ayrton.mugnaini@gmail.com)
