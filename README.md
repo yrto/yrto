@@ -1,4 +1,9 @@
-### Hi there 👋
+## Ayrton Mugnaini
+
+Hi! I'm a senior graphic designer at [@Deloitte](https://github.com/Deloitte) Brazil currently studying full stack web development.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ayrton%20Mugnaini-9FA6B3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayrtonmugnaini/)](https://www.linkedin.com/in/ayrtonmugnaini/)
+[![Gmail Badge](https://img.shields.io/badge/-ayrton.mugnaini@gmail.com-9FA6B3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayrton.mugnaini@gmail.com)](mailto:ayrton.mugnaini@gmail.com)
 
 <!--
 **yrto/yrto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
