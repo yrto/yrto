@@ -1,6 +1,6 @@
 ## Ayrton Mugnaini
 
-Hi! I'm Ayrton, a senior graphic designer working at [Deloitte Brazil](https://www2.deloitte.com/br/pt.html) and studying full-stack web development at [Let's Code](https://letscode.com.br/).
+Hi! I'm Ayrton, brand coordinator at [Deloitte Brazil](https://www2.deloitte.com/br/pt.html) studying full-stack web development at [Let's Code](https://letscode.com.br/).
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ayrton%20Mugnaini-959da5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayrtonmugnaini/)](https://www.linkedin.com/in/ayrtonmugnaini/)
 [![Gmail Badge](https://img.shields.io/badge/-amugnaini@outlook.com-959da5?style=flat-square&logo=mail-dot-ru&logoColor=white&link=mailto:amugnaini@outlook.com)](mailto:amugnaini@outlook.com)
